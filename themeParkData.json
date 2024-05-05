@@ -38,7 +38,7 @@
         "lng": -2.2952170006653807
       },
       "description": "A thrilling boat ride through a pirate-infested island, filled with treasure and danger.",
-      "image":"https://www.draytonmanor.co.uk/fileadmin/user_upload/drayton_manor/bounty-pirate-ship-slide1.jpg"
+      "image": "https://www.draytonmanor.co.uk/fileadmin/user_upload/drayton_manor/bounty-pirate-ship-slide1.jpg"
     },
     {
       "id": "5",
@@ -67,7 +67,8 @@
         "lat": 52.60522201052105,
         "lng": -2.279203477845536
       },
-      "description": "An educational ride through a prehistoric jungle, filled with life-sized dinosaur replicas and fossils."
+      "description": "An educational ride through a prehistoric jungle, filled with life-sized dinosaur replicas and fossils.",
+      "image": "https://blooloop.com/wp-content/uploads/2018/03/lagotronics-projects-dino-attack-conny-land-dinosaur.jpg"
     },
     {
       "id": "8",
@@ -77,7 +78,7 @@
         "lng": -2.322840637883573
       },
       "description": "A magical carousel ride with beautifully decorated horses and chariots.",
-      "image":"https://blooloop.com/wp-content/uploads/2018/03/lagotronics-projects-dino-attack-conny-land-dinosaur.jpg"
+      "image": "https://blooloop.com/wp-content/uploads/2018/03/lagotronics-projects-dino-attack-conny-land-dinosaur.jpg"
     }
   ],
   "gardens": [
@@ -119,7 +120,7 @@
         "lat": 52.571934102607905,
         "lng": -2.2972375100505733
       },
-      "image":"https://www.disneytouristblog.com/wp-content/uploads/2022/05/dusk-guardians-galaxy-cosmic-rewind-epcot-disney-world-1105.jpg"
+      "image": "https://www.disneytouristblog.com/wp-content/uploads/2022/05/dusk-guardians-galaxy-cosmic-rewind-epcot-disney-world-1105.jpg"
     }
   ]
 }
